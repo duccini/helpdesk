@@ -13,6 +13,9 @@
 - Image component
 - Fetch and Revalidating Data
 - SSG (Static Site Generation with Next.js 13+)
+- Custom 404 Page
+- Loading UI
+- Suspense and Streaming
 
 ## Installation
 
