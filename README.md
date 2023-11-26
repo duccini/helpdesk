@@ -16,6 +16,7 @@
 - Custom 404 Page
 - Loading UI
 - Suspense and Streaming
+- Client Form Component
 
 ## Installation
 

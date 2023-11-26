@@ -1,3 +1,7 @@
+/**
+ * all components inside the app folder are server components by default!!!
+ */
+
 import "./globals.css";
 import { Rubik } from "next/font/google";
 
