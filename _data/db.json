@@ -34,6 +34,13 @@
       "priority": "high",
       "user_email": "mario@netninja.dev",
       "id": "dABm-PD"
+    },
+    {
+      "title": "Learn Typescript",
+      "body": "blah blah blah",
+      "priority": "medium",
+      "user_email": "mario@netninja.dev",
+      "id": "ISmYwFr"
     }
   ]
 }

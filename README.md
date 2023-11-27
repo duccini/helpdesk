@@ -17,6 +17,7 @@
 - Loading UI
 - Suspense and Streaming
 - Client Form Component
+- Building the App
 
 ## Installation
 
